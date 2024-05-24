@@ -162,7 +162,7 @@
             this.computeBtn.BackColor = System.Drawing.Color.MintCream;
             this.computeBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.computeBtn.Font = new System.Drawing.Font("Alef", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.computeBtn.Location = new System.Drawing.Point(206, 198);
+            this.computeBtn.Location = new System.Drawing.Point(198, 198);
             this.computeBtn.Name = "computeBtn";
             this.computeBtn.Size = new System.Drawing.Size(124, 31);
             this.computeBtn.TabIndex = 12;
